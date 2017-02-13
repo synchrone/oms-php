@@ -3,7 +3,6 @@
  * Библиотека для работы с SOAP шлюзом типа Outlook 2007 / Office 2010 Mobile Service
  * @package    OMS
  * @author     Alexander Bogdanov
- * @copyright  (c) 2011 Alexander Bogdanov <alex.bogdanov91@gmail.com>
  * @license    http://zahymaka.com/license.html
  */
 
